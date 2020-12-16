@@ -1,4 +1,4 @@
-<h1 align="center">PROJETO JOGO 3D - EXPERIMENTO-X - UNIFESSPA.</h1>
+<h1 align="center">PROJETO JOGO 3D - EXPERIMENTO-Z - UNIFESSPA.</h1>
 
 <p align="center">🚀 Desenvolvimento de jogo em Unity</p>
 
