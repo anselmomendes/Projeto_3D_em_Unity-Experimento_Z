@@ -6,7 +6,7 @@
 
 <p align="justify">A historia: um experimento de uma arma biológica em uma ilha secreta no oceano Pacífico não é contido corretamente e um vírus mortal escada, desencadeando uma série de acontecimentos na ilha que leva à morte de várias pessoas. Entretanto, esse é o menor dos problemas. Os mortos estão voltando à vida com um violento extinto assassino . O protagonista da nossa história, capitão de segurança Ryan , recebeu os documentos para replicação do experimento do Doutor Manel . Sua missão é chegar ao ponto de resgate, do outro lado da ilha, para manter os arquivos em segurança.</p>
 
-<img src="https://faceel.unifesspa.edu.br/images/infraestrutura/area-comum/IMG_8116-min.JPG" width="80%">
+<img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_121626.jpg" width="65%">
 
 <h3>AGENDA</h3>
 
@@ -21,7 +21,7 @@
 * Demonstração do jogo
 
 <h3>Apresentação do cronograma</h3>
-<img src="https://faceel.unifesspa.edu.br/images/infraestrutura/area-comum/IMG_8116-min.JPG" width="80%">
+<img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_100135.jpg" width="65%">
 
 ### Ferramentas utilizadas
 
@@ -40,16 +40,16 @@
 <h3>Personagens</h3>
 
 * ZOMBIE I
-<img src="https://faceel.unifesspa.edu.br/images/infraestrutura/area-comum/IMG_8116-min.JPG" width="80%">
+<img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_100403.jpg" width="65%">
 
 * ZOMBIE II
-<img src="https://faceel.unifesspa.edu.br/images/infraestrutura/area-comum/IMG_8116-min.JPG" width="80%">
+<img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_100417.jpg" width="65%">
 
 * ZOMBIE III
-<img src="https://faceel.unifesspa.edu.br/images/infraestrutura/area-comum/IMG_8116-min.JPG" width="80%">
+<img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_100436.jpg" width="65%">
 
 * SOLDADOS
-<img src="https://faceel.unifesspa.edu.br/images/infraestrutura/area-comum/IMG_8116-min.JPG" width="80%">
+<img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_100451.jpg" width="65%">
 
 <h3>Assets</h3>
 
@@ -142,10 +142,12 @@ Cria funções para pular e correr;
 Dar a possibilidade de fazer a rotação usando mouse;
 
 <h3>Imagens do jogo</h3>
-<img src="https://faceel.unifesspa.edu.br/images/infraestrutura/area-comum/IMG_8116-min.JPG" width="80%">
-<img src="https://faceel.unifesspa.edu.br/images/infraestrutura/area-comum/IMG_8116-min.JPG" width="80%">
-<img src="https://faceel.unifesspa.edu.br/images/infraestrutura/area-comum/IMG_8116-min.JPG" width="80%">
-<img src="https://faceel.unifesspa.edu.br/images/infraestrutura/area-comum/IMG_8116-min.JPG" width="80%">
+
+<img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_100931.jpg" width="65%">
+<img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_100947.jpg" width="65%">
+<img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_101003.jpg" width="65%">
+<img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_101125.jpg" width="65%">
+<img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_101201.jpg" width="65%">
 
 <h3>Contribuidores</h3>
 
