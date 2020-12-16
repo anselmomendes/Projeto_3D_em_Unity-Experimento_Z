@@ -6,7 +6,7 @@
 
 <p align="justify">A historia: um experimento de uma arma biológica em uma ilha secreta no oceano Pacífico não é contido corretamente e um vírus mortal escada, desencadeando uma série de acontecimentos na ilha que leva à morte de várias pessoas. Entretanto, esse é o menor dos problemas. Os mortos estão voltando à vida com um violento extinto assassino . O protagonista da nossa história, capitão de segurança Ryan , recebeu os documentos para replicação do experimento do Doutor Manel . Sua missão é chegar ao ponto de resgate, do outro lado da ilha, para manter os arquivos em segurança.</p>
 
-<img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_121626.jpg" width="65%">
+<p align="center"><img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_121626.jpg" width="65%"></p>
 
 <h3>AGENDA</h3>
 
@@ -21,7 +21,7 @@
 * Demonstração do jogo
 
 <h3>Apresentação do cronograma</h3>
-<img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_100135.jpg" width="65%">
+<p align="center"><img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_100135.jpg" width="65%"></p>
 
 ### Ferramentas utilizadas
 
@@ -40,16 +40,16 @@
 <h3>Personagens</h3>
 
 * ZOMBIE I
-<img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_100403.jpg" width="65%">
+<p align="center"><img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_100403.jpg" width="65%"></p>
 
 * ZOMBIE II
-<img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_100417.jpg" width="65%">
+<p align="center"><img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_100417.jpg" width="65%"></p>
 
 * ZOMBIE III
-<img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_100436.jpg" width="65%">
+<p align="center"><img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_100436.jpg" width="65%"></p>
 
-* SOLDADOS
-<img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_100451.jpg" width="65%">
+* SOLDADO
+<p align="center"><img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_100451.jpg" width="65%"></p>
 
 <h3>Assets</h3>
 
@@ -93,11 +93,11 @@
 
 ### Trilha de áudio
 
-<a href="https://www.youtube.com/watch?v=zSGPoLCY0xU&ab_channel=wickedslicks1003">Resident Evil 4 Soundtrack Save</a>
+* <a href="https://www.youtube.com/watch?v=zSGPoLCY0xU&ab_channel=wickedslicks1003">Resident Evil 4 Soundtrack Save</a>
 
-<a href="https://www.youtube.com/watch?v=NHsjy5UuKdw&ab_channel=NewBrawlgamemusic">Resident Evil 4 Soundtrack Final Battle</a>
+* <a href="https://www.youtube.com/watch?v=NHsjy5UuKdw&ab_channel=NewBrawlgamemusic">Resident Evil 4 Soundtrack Final Battle</a>
 
-<a href="https://www.youtube.com/watch?v=6uyBy8_QeMU&ab_channel=DimitrisPapadopoulos">Resident Evil 4 Soundtrack A Ruined Village</a>
+* <a href="https://www.youtube.com/watch?v=6uyBy8_QeMU&ab_channel=DimitrisPapadopoulos">Resident Evil 4 Soundtrack A Ruined Village</a>
 
 <h3>Scripts</h3>
 
@@ -133,7 +133,7 @@ Define o padrão de movimentação do zombie;
 Provoca a perseguição contra o personagem;
 
 #### JOGADOR: Esse script tem a simples função de inicializar o objeto com 100 pontos de vida.
-* Define os ponto de vida igual a 100;
+Define os ponto de vida igual a 100;
 
 #### firstPersonController:
 Esse script tem a função de realizar a movimentação dos personagem.
@@ -143,11 +143,11 @@ Dar a possibilidade de fazer a rotação usando mouse;
 
 <h3>Imagens do jogo</h3>
 
-<img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_100931.jpg" width="65%">
-<img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_100947.jpg" width="65%">
-<img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_101003.jpg" width="65%">
-<img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_101125.jpg" width="65%">
-<img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_101201.jpg" width="65%">
+<p align="center"><img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_100931.jpg" width="65%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_100947.jpg" width="65%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_101003.jpg" width="65%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_101125.jpg" width="65%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/anselmomendes/experimento_X/main/imagens/2020-12-16_101201.jpg" width="65%"></p>
 
 <h3>Contribuidores</h3>
 
